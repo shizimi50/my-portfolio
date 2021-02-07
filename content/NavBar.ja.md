@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "しじみ ポートフォリオ"
 menuText: "メニュー "
 ---

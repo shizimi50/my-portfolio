@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Shizimi's Portfolio"
 menuText: "Menu "
 ---
